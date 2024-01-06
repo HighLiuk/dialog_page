@@ -1,0 +1,15 @@
+name: dialog_page
+description: "A wrapper for the showDialog method to make it easier to use dialogs in Navigator 2.0"
+version: 1.0.0
+repository: https://github.com/HighLiuk/dialog_page
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
